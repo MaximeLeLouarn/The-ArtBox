@@ -1,6 +1,6 @@
 <?php
 
-include './header.php';
+include ('./header.php');
 
 ?>
 <main>
@@ -23,6 +23,6 @@ include './header.php';
 </main>
 <?php
 
-include './footer.php';
+include ('./footer.php');
 
 ?>
