@@ -18,6 +18,7 @@ include ('./header.php');
                 </p>
             </div>
         </article>
+        <?php break ?>
         <?php endif ?>
         <?php endforeach ?>
 </main>
